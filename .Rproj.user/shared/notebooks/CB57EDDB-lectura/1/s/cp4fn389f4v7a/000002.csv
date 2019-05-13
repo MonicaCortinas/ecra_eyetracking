@@ -1,0 +1,18 @@
+"0","freq(qualtrics2$Q9ConoZapa)
+"
+"1","Frequencies  
+qualtrics2$Q9ConoZapa  
+Type: Factor  
+
+                                       Freq   % Valid   % Valid Cum.   % Total   % Total Cum.
+------------------------------------ ------ --------- -------------- --------- --------------
+         Completamente en desacuerdo      3      5.17           5.17      5.17           5.17
+                                   2      2      3.45           8.62      3.45           8.62
+                                   3      4      6.90          15.52      6.90          15.52
+      Ni de acuerdo ni en desacuerdo     21     36.21          51.72     36.21          51.72
+                                   5     16     27.59          79.31     27.59          79.31
+                                   6      7     12.07          91.38     12.07          91.38
+            Completamente de acuerdo      5      8.62         100.00      8.62         100.00
+                                <NA>      0                               0.00         100.00
+                               Total     58    100.00         100.00    100.00         100.00
+"

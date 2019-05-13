@@ -1,0 +1,19 @@
+"0","freq(qualtrics2$Q11IntZapa)
+"
+"1","Frequencies  
+qualtrics2$Q11IntZapa  
+Type: Factor  
+
+                                       Freq   % Valid   % Valid Cum.   % Total   % Total Cum.
+------------------------------------ ------ --------- -------------- --------- --------------
+         Completamente en desacuerdo      0      0.00           0.00      0.00           0.00
+                                   2      0      0.00           0.00      0.00           0.00
+                                   3      3      5.17           5.17      5.17           5.17
+      Ni de acuerdo ni en desacuerdo     10     17.24          22.41     17.24          22.41
+                                   5     20     34.48          56.90     34.48          56.90
+                                   6     21     36.21          93.10     36.21          93.10
+            Completamente de acuerdo      4      6.90         100.00      6.90         100.00
+                                <NA>      0                               0.00         100.00
+                               Total     58    100.00         100.00    100.00         100.00
+"
+"0",""
